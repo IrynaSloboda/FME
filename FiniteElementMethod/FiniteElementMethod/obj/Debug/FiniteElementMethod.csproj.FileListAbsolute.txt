@@ -1,0 +1,12 @@
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.csprojAssemblyReference.cache
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.Properties.Resources.resources
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.csproj.GenerateResource.cache
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.csproj.CoreCompileInputs.cache
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.Form1.resources
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\bin\Debug\FiniteElementMethod.exe.config
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\bin\Debug\FiniteElementMethod.exe
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\bin\Debug\FiniteElementMethod.pdb
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.csproj.CopyComplete
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.exe
+C:\Users\siryn\source\repos\FiniteElementMethod\FiniteElementMethod\obj\Debug\FiniteElementMethod.pdb
